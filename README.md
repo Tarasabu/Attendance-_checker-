@@ -15,5 +15,17 @@ Attendance Checker checks the participants in the list, retrive the absentees fr
 
   
 ## Run Locally
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+and fill the Instructions for running it :)
 
 
